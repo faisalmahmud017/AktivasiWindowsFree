@@ -4,7 +4,7 @@
 
 2. Setelah berhasil masuk ke website tersebut, scroll ke bawah hingga menemukan daftar license key Windows 11 dan Windows 10 yang disediakan oleh Microsoft.
    
-3. Copy salah satu license key sesuai versi Windows 10 yang terinstall. table daftar KMS Client Product Key
+3. Copy salah satu license key pada webiste [Key Management Services (KMS) client activation and product keys](https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys) sesuaikan versi Windows 10 pada yang dipunya atau copy salah satu licensi pada table daftar KMS Client Product Key 
 
 | **Nama Produk** |	**KMS Client Product Key** |
 |-----------------|----------------------------|
